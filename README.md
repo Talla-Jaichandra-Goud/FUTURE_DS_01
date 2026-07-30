@@ -21,17 +21,6 @@ The **Super Store Sales Dashboard** provides a comprehensive analysis of sales a
 
 ---
 
-## 📊 Dashboard KPIs
-
-| KPI | Value |
-|------|--------|
-| Total Orders | 22K |
-| Total Sales | 1.6M |
-| Total Profit | 175K |
-| Average Ship Days | 4 |
-
----
-
 ## 📈 Dashboard Features
 
 - ✅ Sales by Region
@@ -75,15 +64,3 @@ The **Super Store Sales Dashboard** provides a comprehensive analysis of sales a
 
 ---
 
-## 💼 Business Value
-
-This dashboard enables businesses to:
-
-- Monitor overall sales and profitability.
-- Identify top-performing regions and product categories.
-- Track monthly sales and profit trends.
-- Optimize shipping and logistics strategies.
-- Understand customer purchasing behavior.
-- Support strategic business decisions through data-driven insights.
-
----
