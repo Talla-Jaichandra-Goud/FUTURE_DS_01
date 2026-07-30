@@ -13,9 +13,9 @@ The **Super Store Sales Dashboard** provides a comprehensive analysis of sales a
 
 ## 🛠️ Tools & Technologies
 
-- **Power BI Desktop**
-- **Power Query**
-- **DAX (Data Analysis Expressions)**
+- Power BI Desktop
+- Power Query
+- DAX (Data Analysis Expressions)
 - Data Modeling
 - Data Visualization
 
@@ -23,16 +23,16 @@ The **Super Store Sales Dashboard** provides a comprehensive analysis of sales a
 
 ## 📈 Dashboard Features
 
-- ✅ Sales by Region
-- ✅ Sales by Customer Segment
-- ✅ Sales by Payment Mode
-- ✅ Monthly Sales (Year-over-Year)
-- ✅ Monthly Profit (Year-over-Year)
-- ✅ Sales by Ship Mode
-- ✅ Sales by Product Category
-- ✅ Sales by Sub-Category
-- ✅ Geographic Sales Analysis (Map)
-- ✅ Interactive Region Filter (Central, East, South, West)
+- Sales by Region
+- Sales by Customer Segment
+- Sales by Payment Mode
+- Monthly Sales (Year-over-Year)
+- Monthly Profit (Year-over-Year)
+- Sales by Ship Mode
+- Sales by Product Category
+- Sales by Sub-Category
+- Geographic Sales Analysis (Map)
+- Interactive Region Filter (Central, East, South, West)
 
 ---
 
@@ -49,7 +49,7 @@ The **Super Store Sales Dashboard** provides a comprehensive analysis of sales a
 ---
 
 
-## 📚 Skills Demonstrated
+## 🔄 Project Workflow
 
 - Data Cleaning
 - Data Transformation
